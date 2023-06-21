@@ -5,7 +5,7 @@ Autenticação com JWT com laravel 10.
 <br>
 
 ## 🚀 Começando
----
+
 <br>
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
@@ -78,10 +78,10 @@ OBS : Caso tenha saido do container, repita o passo 6 da instalação.
 Adminer - Ferramenta de gerenciamento de banco de dados
 
     http://localhost:8080
-    servidor : mysql
+    servidor : db-mysql
     user     : root
     password : root
-    database : laravel-redis
+    database : jwt-authentication
 
 Laravel telescope - Para uma melhor análise, das informações obtidas atraves da aplicação.
 
